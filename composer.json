@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/socket": "^1.0",
+        "poymanov/brackets_balanced": "^1.0"
+    }
+}
